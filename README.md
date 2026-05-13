@@ -1,4 +1,4 @@
-![banner](https://i.pinimg.com/originals/05/f1/7d/05f17d6e87ad18f65940f896f4cf11a4.gif)
+![banner](https://i.pinimg.com/originals/09/a8/6c/09a86cc9c30957b6b24f6c24011028b4.gif)
 <h1 align="center">Hey 👋, I'm Divyansh Sharma</h1>
 <h3 align="center">Building AI-integrated websites, agents & creative UI experiences</h3>
 
